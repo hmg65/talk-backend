@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "type": "module",
   "scripts": {
-    "build": "npm install --legacy-peer-deps",
-    "start": "node backend/server.js",
-    "server": "nodemon backend/server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "mern",
